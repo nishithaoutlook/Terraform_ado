@@ -1,0 +1,6 @@
+rgname = "TF-Test1-RG"
+pocstrname= "TF-Test1-SC"
+rglocation = "eastus"
+prefix = "Nishi"
+//vnet_cidr_prefix = "10.10.0.0/16"
+//subnet1_cidr_prefix = "10.10.1.0/24"
